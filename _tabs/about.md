@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 I'm CPTS, CDSA, CWES/CBBH certified, graduated with a Diploma in IT (Cyber Security), and am currently studying a Graduate Certificate in Cybersecurity. I’ve also completed the following Hack The Box ProLabs: [Genesis](https://www.hackthebox.com/blog/genesis-breakpoint-release) and [Dante](https://www.hackthebox.com/hacker/pro-labs)
 
 Education
@@ -29,5 +26,5 @@ Certifications in Progress:
   
 CTF Platforms:
 
-<a alt="HTB" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/htb.png" height="300" width="200"/></a>
 <a alt="Vulnlab" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/vulnlab2.png"><img alt="Vulnlab" src="/assets/img/vulnlab2.png" height="200" width="150"/></a>
+<a alt="HTB" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/htb.png" height="200" width="150"/></a>
