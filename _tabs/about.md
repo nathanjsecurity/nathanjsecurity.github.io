@@ -15,7 +15,7 @@ Education
 
 Certifications:
 
-<a alt="CPTS2" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/CPTS2.webp"><img alt="CPTS2" src="/assets/img/CPTS2.png" height="200" width="150"/></a>
+<a alt="CPTS2" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/CPTS2.webp"><img alt="CPTS2" src="/assets/img/CPTS2.webp" height="200" width="150"/></a>
 <a alt="CDSA" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/CDSA.webp"><img alt="CDSAS" src="/assets/img/CDSA.webp" height="200" width="150"/></a>
 <a alt="CBBH" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/CBBH.png"><img alt="CBBH" src="/assets/img/CBBH.png" height="200" width="150"/></a>
 <a alt="CWES" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/CWES.png"><img alt="CWES" src="/assets/img/CWES.png" height="200" width="150"/></a>
@@ -29,5 +29,5 @@ Certifications in Progress:
   
 CTF Platforms:
 
-<a alt="HTB" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/HTB.png" height="200" width="150"/></a>
+<a alt="HTB" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/htb.png" height="300" width="200"/></a>
 <a alt="Vulnlab" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/vulnlab2.png"><img alt="Vulnlab" src="/assets/img/vulnlab2.png" height="200" width="150"/></a>
