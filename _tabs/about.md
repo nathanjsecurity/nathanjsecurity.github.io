@@ -26,5 +26,5 @@ Certifications in Progress:
   
 CTF Platforms:
 
-<a alt="Vulnlab" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/vulnlab2.png"><img alt="Vulnlab" src="/assets/img/vulnlab2.png" height="200" width="150"/></a>
+<a alt="Vulnlab" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/vulnlab2.png"><img alt="Vulnlab" src="/assets/img/vulnlab2.png" height="150" width="75"/></a>
 <a alt="HTB" href="https://github.com/nathanjsecurity/nathanjsecurity.github.io/blob/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/htb.png" height="200" width="150"/></a>
