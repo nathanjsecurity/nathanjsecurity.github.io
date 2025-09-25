@@ -28,3 +28,7 @@ CTF Platforms:
 
 <a alt="Vulnlab" href="https://raw.githubusercontent.com/nathanjsecurity/nathanjsecurity.github.io/refs/heads/main/assets/img/vulnlab2.png"><img alt="Vulnlab" src="/assets/img/vulnlab2.png" height="100" width="75"/></a>
 <a alt="HTB" href="https://raw.githubusercontent.com/nathanjsecurity/nathanjsecurity.github.io/refs/heads/main/assets/img/htb.png"><img alt="HTB" src="/assets/img/htb.png" height="200" width="150"/></a>
+
+- HTB Season 9: In Progress
+- HTB Season 8: Platinum
+- HTB Rank: Hacker
