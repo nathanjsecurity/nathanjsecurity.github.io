@@ -12,7 +12,7 @@ Education:
 
 Certifications:
 
-<a alt="CPTS2" href="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png"><img alt="CPTS2" src="/assets/img/CPTS2.webp" height="200" width="150"/></a>
+<a href="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png"><img src="/assets/img/CPTS2.webp" alt="CPTS2" height="200" width="150" /></a>
 <a alt="CDSA" href="https://raw.githubusercontent.com/nathanjsecurity/nathanjsecurity.github.io/refs/heads/main/assets/img/CDSA.webp"><img alt="CDSA" src="/assets/img/CDSA.webp" height="200" width="150"/></a>
 <a alt="CBBH" href="https://raw.githubusercontent.com/nathanjsecurity/nathanjsecurity.github.io/refs/heads/main/assets/img/CBBH.png"><img alt="CBBH" src="/assets/img/CBBH.png" height="200" width="150"/></a>
 <a alt="CWES" href="https://raw.githubusercontent.com/nathanjsecurity/nathanjsecurity.github.io/refs/heads/main/assets/img/CWES.png"><img alt="CWES" src="/assets/img/CWES.png" height="200" width="150"/></a>
