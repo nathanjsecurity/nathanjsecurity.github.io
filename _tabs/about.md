@@ -32,3 +32,5 @@ CTF Platforms:
 - HTB Season 9: In Progress
 - HTB Season 8: Platinum
 - HTB Rank: Hacker
+
+<img alt="CDSA" src="/assets/img/CDSA.webp" height="200" width="150"/>
