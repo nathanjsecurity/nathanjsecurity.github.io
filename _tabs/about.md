@@ -11,7 +11,6 @@ Education:
 - Diploma in Information Technology (Cyber Security)
 
 Certifications:
-
 <p align="left"><img alt="CPTS" src="/assets/img/about/CPTS2.webp" height="200" width="150"/>
 <img alt="CDSA" src="/assets/img/about/CDSA.webp" height="200" width="150"/>
 <img alt="CBBH" src="/assets/img/about/CBBH.png" height="200" width="150"/>
