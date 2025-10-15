@@ -12,9 +12,10 @@ Education:
 
 Certifications:
 
-<img alt="CPTS" src="/assets/img/about/CPTS2.webp" height="200" width="150"/>
+<p align="center"><img alt="CPTS" src="/assets/img/about/CPTS2.webp" height="200" width="150"/>
 <img alt="CDSA" src="/assets/img/about/CDSA.webp" height="200" width="150"/>
 <img alt="CBBH" src="/assets/img/about/CBBH.png" height="200" width="150"/>
 <img alt="CWES" src="/assets/img/about/CWES.png" height="200" width="150"/>
 <img alt="Genesis" src="/assets/img/about/Genesis.png" height="200" width="150"/>
 <img alt="Dante" src="/assets/img/about/Dante2.png" height="200" width="150"/>
+</p>
