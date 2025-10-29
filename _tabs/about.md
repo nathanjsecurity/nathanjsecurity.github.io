@@ -13,7 +13,7 @@ Education:
 Certifications:
 
 <a href="https://academy.hackthebox.com/storage/exam_badges/312krCbLBwwnMN1uaOXohoEjSE6Fb8ljaXi7B4zL.png"><img src="/assets/img/about/CPTS2.webp" alt="CPTS2" height="200" width="150"/></a>
-<img alt="CDSA" src="/assets/img/about/CDSA.webp" height="200" width="150"/>
+<a href="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png"><img src="/assets/img/about/CDSA.webp" alt="CDSA" height="200" width="150"/></a>
 <img alt="CBBH" src="/assets/img/about/CBBH.png" height="200" width="150"/>
 <img alt="CWES" src="/assets/img/about/CWES.png" height="200" width="150"/>
 <img alt="Genesis" src="/assets/img/about/Genesis.png" height="200" width="150"/>
